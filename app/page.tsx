@@ -99,12 +99,12 @@ export default function Home() {
       github: "https://github.com/badal1e",
     },
     {
-      title: "TechXpert",
+      title: "Railway Booking System",
       description: "A technology expertise showcase platform highlighting various tech skills and projects.",
       technologies: ["HTML", "CSS", "JavaScript"],
       image: "/tx.png?height=300&width=500",
-      link: "https://github.com/badal1e",
-      github: "https://github.com/badal1e",
+      link: "https://github.com/Badal1e/Railway_Booking_System",
+      github: "https://github.com/Badal1e/Railway_Booking_System",
     },
     // {
     //   title: "Express Hello World",
