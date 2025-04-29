@@ -79,8 +79,8 @@ export default function Home() {
       description: "An educational platform built with HTML, CSS, and JavaScript to facilitate online learning.",
       technologies: ["HTML", "CSS", "JavaScript"],
       image: "/elearn.jpeg?height=300&width=500",
-      link: "https://github.com/abhishek12219517/E-learning-platform",
-      github: "https://github.com/abhishek12219517/E-learning-platform",
+      link: "https://github.com/Badal1e/E-learning-template",
+      github: "https://github.com/Badal1e/E-learning-template",
     },
     // {
     //   title: "Railway Booking Website",
