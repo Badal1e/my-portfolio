@@ -599,7 +599,7 @@ export default function Home() {
                 transition={{ delay: 0.5, duration: 0.5 }}
                 viewport={{ once: true }}
               >
-                <NeonButton href="https://github.com/amit12209974" color="cyan" target="_blank">
+                <NeonButton href="https://github.com/badal1e" color="cyan" target="_blank">
                 View More on GitHub
                 </NeonButton>
                 
