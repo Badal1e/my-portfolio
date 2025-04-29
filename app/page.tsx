@@ -1031,7 +1031,7 @@ export default function Home() {
             viewport={{ once: true }}
           >
             <NeonButton href="https://drive.google.com/file/d/18ro8CF3z2pbz5xhwkzbXaHkd-zEpB6j8/view?usp=drive_link" color="purple" download target="_blank">
-            Download Resume (PDF)
+            Download CV (PDF)
             </NeonButton>
             
           </motion.div>
